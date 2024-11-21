@@ -1,0 +1,16 @@
+image{ position: static;}
+
+h1{ position: fixed;
+background-color: aquamarine;}
+
+
+#absolute{position: absolute;
+background-color: #7696a5;}
+
+footer{bottom:0;
+    position: sticky;
+background-color:#f1d075 ;
+font-weight: bold;}
+
+#i2{position: relative;
+background-color: pink;}
